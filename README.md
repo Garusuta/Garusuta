@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Garusuta/Garusuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me | 关于我
 
-Here are some ideas to get you started:
+- Garusuta, A code enthusiast. | Garusuta，一个代码爱好者
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact me | 联系我
+
+- Discord | Discord : nachoneko0906
+
+<p align="center">
+    <img alt="" src=https://img.shields.io/github/stars/Garusuta?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
+    <img alt="" src=https://komarev.com/ghpvc/?username=Garusuta&style=for-the-badge />
+</p>
+
+<h2 align="center">Skills </h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,py,bash,kotlin,rust,vscode,androidstudio,java"/>
+  </a>
+</p>
