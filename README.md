@@ -17,6 +17,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,bash,kotlin,rust,cs,vscode,androidstudio,java,vue,tauri,js,ts"/>
+    <img src="https://skillicons.dev/icons?i=go,rust,py,js,ts,bash,vscode,vue,tauri"/>
   </a>
 </p>
