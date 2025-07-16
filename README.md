@@ -2,7 +2,7 @@
 
 ### About me | 关于我
 
-- Garusuta, A code enthusiast. | Garusuta，一个代码爱好者
+- 二零醚, A code enthusiast. | Garusuta，一个代码爱好者
 
 ### Contact me | 联系我
 
@@ -17,6 +17,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,bash,kotlin,rust,vscode,androidstudio,java"/>
+    <img src="https://skillicons.dev/icons?i=go,py,bash,kotlin,rust,cs,vscode,androidstudio,java,vue,tauri,js,ts"/>
   </a>
 </p>
